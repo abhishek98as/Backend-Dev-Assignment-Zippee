@@ -6,7 +6,7 @@ A simple REST API built with Django and Django REST Framework. It lets users man
 
 ## Tech Stack
 
-- Python 3.x
+- Python 3.14
 - Django 4.2
 - Django REST Framework
 - djangorestframework-simplejwt (JWT auth)
